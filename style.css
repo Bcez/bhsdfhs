@@ -47,3 +47,25 @@ h1 {
     width: 80%;
 }
 
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    background:#282424;
+
+    
+}
+#mynavbar{
+    float:right;
+    background-color: #282424;
+}
+input{
+    background: grey;
+}
+#hd{
+    background-color: #282424;
+}
+#lol{
+    background-color: #282424;
+    padding-right: 1123.5px;
+}
